@@ -36,11 +36,11 @@ while (n < 1)
     Console.Write("Второе число не натуральное. ");
     n = ReadInt("Введите натуральное число: ");
 }
-if (m < n) 
+if (m > n) 
 {
-    PrintEvenNumbers(m, n);
+   int temp = m;
+    m = n;
+    n = temp;
 }
-else
-{
-    PrintEvenNumbers(n, m);
-}
+
+PrintEvenNumbers(m, n);
