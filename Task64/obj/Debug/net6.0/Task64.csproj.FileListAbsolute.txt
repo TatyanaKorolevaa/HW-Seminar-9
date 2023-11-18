@@ -1,0 +1,15 @@
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\bin\Debug\net6.0\Task64.exe
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\bin\Debug\net6.0\Task64.deps.json
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\bin\Debug\net6.0\Task64.dll
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\bin\Debug\net6.0\Task64.pdb
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\Task64.dll
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\refint\Task64.dll
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\Task64.pdb
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+D:\GeekBrains\0 Курс Разработчик\GB.Examples\C#\Seminar 9\HW Seminar 9\Task64\obj\Debug\net6.0\ref\Task64.dll
