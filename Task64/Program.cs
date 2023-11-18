@@ -3,9 +3,9 @@
 // M = 1; N = 5 -> "2, 4"
 // M = 4; N = 8 -> "4, 6, 8"
 
-int ReadInt(string msg)
+int ReadInt(string message)
 {
-    Console.WriteLine(msg);
+    Console.WriteLine(message);
     int result = Convert.ToInt32(Console.ReadLine());
     return result;
 }
