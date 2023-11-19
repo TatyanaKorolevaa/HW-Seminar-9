@@ -3,9 +3,9 @@
 // m = 2, n = 3 -> A(m,n) = 9
 // m = 3, n = 2 -> A(m,n) = 29
 
-int ReadInt(string msg)
+int ReadInt(string message)
 {
-    Console.WriteLine(msg);
+    Console.WriteLine(message);
     int result=Convert.ToInt32(Console.ReadLine());
     return result;
 }
