@@ -24,17 +24,14 @@ void PrintEvenNumbers(int m, int n)
     
 }
 
-int m = ReadInt("Введите первое натуральное число: ");
-int n = ReadInt("Введите второе натуральное число: ");
-while (m < 1)
+int m = ReadInt("Введите натуральное число: ");
+int n = ReadInt("Введите натуральное число: ");
+while (n < 1 || m < 1)
 {
-    Console.Write("Первое число не натуральное. ");
-    m = ReadInt("Введите натуральное число: ");
-}
-while (n < 1)
-{
-    Console.Write("Второе число не натуральное. ");
-    n = ReadInt("Введите натуральное число: ");
+    Console.Write("Одно из чисел не натуральное. Повторите ввод. ");
+    Console.WriteLine();
+    n = ReadInt("Введите число больше 0: ");
+    m = ReadInt("Введите число больше 0: ");
 }
 if (m > n) 
 {
